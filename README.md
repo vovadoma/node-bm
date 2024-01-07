@@ -1,4 +1,6 @@
-Node Business Models (constant, dictionary, enumeration, document (form), list (data view), registers, reports, processing, business process and OLAP).
+# Node Business Models
+----------------------
+Constant, dictionary, enumeration, document (form), list (data view), registers, reports, processing, business process and OLAP
 
 ### Constant (константа)
 Зберігається в таблиці констант як назва, тег, тип та значення, наприклад:
